@@ -1,0 +1,9 @@
+i;i < sampleArray.length;resultado.push(sampleArray[i]);i++;"                  showResults(kata10())"
+0;true;469;1;-
+1;true;755;2;-
+2;true;244;3;-
+3;true;245;4;-
+4;true;758;5;-
+-;-;-;-;-
+19;true;472;20;469, 755, 244, 245, 758, 450, 302, 17, 712, 71, 456, 21, 398, 339, 882, 848, 179, 535, 940, 472
+20;false;--;--;--

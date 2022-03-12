@@ -1,0 +1,9 @@
+i;i <= 20;resultado +=i;i++;showResults
+0;true;0;1;-
+1;true;1;2;-
+2;true;3;3;-
+3;true;6;4;-
+4;true;10;5;-
+-;-;-;-;-
+20;true;210;21;210
+21;false;--;--;--

@@ -1,0 +1,8 @@
+i;i < sampleArray.length;" resultado += sampleArray[i]";i++;showResults
+0;true;469;1;-
+1;true;1224;2;-
+2;true;1468;3;-
+3;true;1713;4;-
+-;-;-;-;-
+19;true;9093;20;9093
+20;false;--;--;--

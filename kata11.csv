@@ -1,0 +1,9 @@
+i;i < sampleArray.length;if(sampleArray[i] % 2 === 0);resultado.push(sampleArray[i]);i++;"                               showResults"
+0;true;false;-;1;-
+1;true;false;-;2;-
+2;true;true;244;3;-
+3;true;false;-;4;-
+4;true;true;758;5;-
+-;-;-;-;-;-
+19;true;true;472;20;244, 758, 450, 302, 712, 456, 398, 882, 848, 940, 472
+20;false;--;--;--;--

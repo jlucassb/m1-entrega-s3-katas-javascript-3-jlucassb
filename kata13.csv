@@ -1,0 +1,13 @@
+i;i < sampleArray.length;if(sampleArray[i] % 8 === 0);resultado.push(sampleArray[i]);i++;showResults
+0;true;false;-;1;-
+1;true;false;-;2;-
+2;true;false;-;3;-
+3;true;false;-;4;-
+4;true;false;-;5;-
+5;true;false;-;6;-
+6;true;false;-;7;-
+7;true;false;-;8;-
+8;true;true;712;9;-
+-;-;-;-;-;-
+19;true;true;472;20;712, 456, 848, 472
+20;false;--;--;--;--

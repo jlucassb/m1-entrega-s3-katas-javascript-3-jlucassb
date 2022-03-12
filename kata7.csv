@@ -1,0 +1,12 @@
+i;i <= 100;if(i % 7 === 0);" resultado.push(i)";i++;"                           showResults"
+7;true;true;7;8;-
+8;true;false;-;9;-
+9;true;false;-;10;-
+10;true;false;-;11;-
+11;true;false;-;12;-
+12;true;false;-;13;-
+13;true;false;-;14;-
+14;true;true;14;15;-
+-;-;-;-;-;-
+100;true;false;-;101;7, 14, 21, 28, 35, 42, 49, 56, 63, 70, 77, 84, 91, 98
+101;false;--;--;--;--

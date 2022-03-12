@@ -1,0 +1,10 @@
+i;i <= 100;if(i % 5 === 0 && i % 2 !== 0);resultado.push(i);i++;"               showResults"
+5;true;true;5;6;-
+6;true;false;-;7;-
+7;true;false;-;8;-
+8;true;false;-;9;-
+9;true;false;-;10;-
+10;true;false;-;11;-
+-;-;-;-;-;-
+100;true;false;-;101;5, 15, 25, 35, 45, 55, 65, 75, 85, 95
+101;false;--;--;--;--
